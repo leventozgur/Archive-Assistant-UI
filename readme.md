@@ -10,9 +10,9 @@ Archive Assistant UI is developed using the Swift programming language and is de
 
 ## Screenshots
 
-<table><tr>
-<img src="https://github.com/leventozgur/Archive-Assistant-UI/Screenshots/ss_01?raw=true" alt="ss_01" width="600" style="border: 1px solid;"> </tr>
-<tr> <img src="https://github.com/leventozgur/Archive-Assistant-UI/Screenshots/ss_02?raw=true" alt="ss_02" width="600" style="border: 1px solid;"> </tr>
+<table>
+<tr><img src="https://raw.githubusercontent.com/leventozgur/Archive-Assistant-UI/main/Screenshots/ss_01.png" alt="ss_01" width="600" style="border: 1px solid;"> </tr>
+<tr> <img src="https://raw.githubusercontent.com/leventozgur/Archive-Assistant-UI/main/Screenshots/ss_02.png" alt="ss_02" width="600" style="border: 1px solid;"> </tr>
 </table>
 
 ## Getting Started
